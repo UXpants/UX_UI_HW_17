@@ -7,7 +7,7 @@
     padding: 1%;
     text-align: center;
 }
-.nav {
+nav {
     width: 73%;
     padding: 1%;
 }
@@ -23,11 +23,12 @@ ul {
     width: 500px;
     margin: 0 auto;
 }
-.footer {
+footer {
     background-color: #373738;
+    padding: 20px;
 }
-ul li {
+footer ul {
     display: inline-block;
     vertical-align: top;
-    padding: 20px;
+    padding: 1%;
 }
